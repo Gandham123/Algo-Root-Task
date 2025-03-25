@@ -85,4 +85,3 @@ This **To-Do Application** provides an **efficient** and **user-friendly** solut
 🔹 **Full CRUD functionality**, ensuring smooth integration between frontend and backend.  
 🔹 **Reliable performance**, with effective management of both **user and server-side errors**.  
 
-Would you like any modifications or additional details? 😊
